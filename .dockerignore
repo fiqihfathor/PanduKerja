@@ -1,3 +1,20 @@
 # Python virtual environment
 .venv/
 venv/
+
+# Python bytecode
+__pycache__/
+
+# env
+.env
+
+# data
+data/
+/data
+
+# Pytest cache
+pytest_cache/
+.cache/
+
+# Ruff cache
+ruff_cache/

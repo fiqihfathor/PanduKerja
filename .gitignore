@@ -11,3 +11,10 @@ __pycache__/
 # data
 data/
 /data
+
+# Pytest cache
+pytest_cache/
+.cache/
+
+# Ruff cache
+ruff_cache/
